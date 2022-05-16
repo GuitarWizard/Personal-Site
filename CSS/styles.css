@@ -142,6 +142,11 @@ hr {
 width: 630px;
 height: 460px;
 }
+.astro-heading
+{
+text-align: right;
+}
+
 .Astrophotography-description
 {
 clear: right;
