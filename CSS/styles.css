@@ -5,12 +5,12 @@ div{
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Railway', cursive;
+  font-family: 'Railway', normal;
   font-size: 1.5em;
   }
 h1  {
     /*  width: 10%;*/
-      font-family: 'Oleo Script Swash Caps', cursive;
+      font-family: 'Oleo Script Swash Caps', normal;
       color: #6A67CE;
       font-size: 5.62rem; /*em 1 em = 16 px. Note that any parent callouts for 'em' modifications in the parent container get added. rem is a 'root' em callout - ignores parent font size callouts*/
       margin: 5% auto 0 auto; /*text margin in this order: top, right, bottom, left */
