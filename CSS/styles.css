@@ -159,6 +159,11 @@ clear: right;
   float: left;
   padding-right: 20px;
 }
+
+.guitar-description
+{
+ clear: left; 
+}
 .contact-me
 {
   padding-bottom: 50px;
